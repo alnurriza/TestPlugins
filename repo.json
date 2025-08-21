@@ -1,8 +1,8 @@
 {
-    "name": "Reposan 2",
-    "description": "Cloudstream Indonesia Repo",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/alnurriza/TestPlugins/refs/heads/master/plugins.json"
-    ]
+  "name": "Reposan Jilid 2",
+  "description": "Providers from all country",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/santveraaa/TestPlugins/refs/heads/master/plugins.json"
+  ]
 }
