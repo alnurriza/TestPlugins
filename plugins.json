@@ -1,5 +1,24 @@
 [
 	{
+		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 306703,
+        "status": 2,
+        "language": "en",
+        "authors": [
+            "RowdyRushya,Phisher98"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 17,
+        "internalName": "Ultima",
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
+        "name": "Ultima"
+	},
+	{
 		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
         "jarFileSize": 355285,
         "apiVersion": 1,
